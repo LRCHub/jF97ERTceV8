@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "快眠!安眠!スヤリスト生活",
+  "base_artist": "スヤリス姫 (CV.水瀬いのり)",
+  "createdAt": "2026-02-26T02:40:16.225992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活",
+      "artist": "スヤリス姫 (CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/01_快眠!安眠!スヤリスト生活_スヤリス姫_(CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活 (Off Vocal)",
+      "artist": "スヤリス姫(CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/02_快眠!安眠!スヤリスト生活_(Off_Vocal)_スヤリス姫(CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活",
+      "artist": "スヤリス姫",
+      "has_synced": true,
+      "path": "select/03_快眠!安眠!スヤリスト生活_スヤリス姫.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活 - TV Size",
+      "artist": "スヤリス姫 (CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/04_快眠!安眠!スヤリスト生活_-_TV_Size_スヤリス姫_(CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "快眠! 安眠! スヤリスト生活",
+      "artist": "スヤリス姫 (水瀬いのり)",
+      "has_synced": true,
+      "path": "select/05_快眠!_安眠!_スヤリスト生活_スヤリス姫_(水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "快眠! 安眠! スヤリスト生活",
+      "artist": "水瀬いのり",
+      "has_synced": true,
+      "path": "select/06_快眠!_安眠!_スヤリスト生活_水瀬いのり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "快眠! 安眠! スヤリスト生活",
+      "artist": "スヤリス姫( CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/07_快眠!_安眠!_スヤリスト生活_スヤリス姫(_CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活 (Off Vocal)",
+      "artist": "スヤリス姫(CV.Inori Minase)",
+      "has_synced": true,
+      "path": "select/08_快眠!安眠!スヤリスト生活_(Off_Vocal)_スヤリス姫(CV.Inori_Minase).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "快眠！安眠！スヤリスト生活",
+      "artist": "スヤリス姫",
+      "has_synced": true,
+      "path": "select/09_快眠!安眠!スヤリスト生活_スヤリス姫.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "快眠!安眠!スヤリスト生活",
+      "artist": "スヤリス姫(CV.Inori Minase)",
+      "has_synced": true,
+      "path": "select/10_快眠!安眠!スヤリスト生活_スヤリス姫(CV.Inori_Minase).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "快眠！安眠！スヤリスト生活",
+      "artist": "スヤリス姫 (CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/11_快眠!安眠!スヤリスト生活_スヤリス姫_(CV.水瀬いのり).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "快眠!安眠!スヤリスト生活",
+      "artist": "スヤリス姫 (CV.水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_01_快眠!安眠!スヤリスト生活_スヤリス姫_(CV.水瀬いのり).txt"
+    }
+  ]
+}
